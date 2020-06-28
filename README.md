@@ -1,2 +1,3 @@
 # crash_your_laptop
-Different ways to crash your laptop...*_*
+In this repo I will try to add functions to crash your laptop...*_* <\br>
+Hope you guys have fun crashing your laptop.
